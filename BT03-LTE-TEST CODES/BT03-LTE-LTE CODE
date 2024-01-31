@@ -1,8 +1,8 @@
-#define RXD2 4
-#define TXD2 2
+#define RXD2 21
+#define TXD2 22
 
-#define PIN  19
-#define RES  5
+//#define PIN  19
+#define RES  32
 
 void setup() {
 // initialize both serial ports:
