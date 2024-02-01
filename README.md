@@ -11,3 +11,6 @@ Digital Inputs
 Thermocouple inputs
 transistor outputs
 DIN-Rail mount
+
+Datasheet:   https://drive.google.com/open?id=1bjT3UeA6oDQ4Q2SrZquByBYR_aP6cQGx&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1eprDz0YYC_1OIDvPXoikI5NUVw_JsN1l&usp=drive_fs
